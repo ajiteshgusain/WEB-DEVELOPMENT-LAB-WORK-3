@@ -18,12 +18,6 @@ This project successfully incorporates the following advanced CSS features:
 | **Animations & Effects** | Implemented a color-changing **Keyframe Animation** on the main heading text and a smooth **Transition/Transform** effect on the submit button hover. | 
 | **Relative Units** | Used `rem`, `%`, and `vh`/`vw` principles for scalable padding and font sizes. | 
 
----
 
-### 💻 How to View Responsiveness
 
-1.  **Clone or Download** the repository files.
-2.  Open the **`index.html`** file in any modern web browser (Chrome, Firefox, Edge).
-3.  **Resize the browser window:**
-    * **Large View:** Observe the Flexbox (side-by-side elements) and Grid (2-column skills/projects) layouts.
-    * **Small View (Mobile):** Shrink the window below 600 pixels. The layout will **stack vertically** to ensure optimal readability on mobile phones.
+
